@@ -23,6 +23,8 @@ h6 {
 
 .topnav {
     font-size: 14px;
+    background-color: #033649 !important;
+    border-color: #033649 !important;
 }
 
 .lead {
@@ -94,7 +96,11 @@ h6 {
 
 .content-section-a {
     padding: 50px 0;
-    background-color: #f8f8f8;
+    background-color: #E8F3F8;
+}
+
+.topnav a{
+    color:#FFF !important;
 }
 
 .content-section-b {
@@ -110,7 +116,7 @@ h6 {
 .section-heading-spacer {
     float: left;
     width: 200px;
-    border-top: 3px solid #e7e7e7;
+    border-top: 3px solid #81A8B8;
 }
 
 .banner {
